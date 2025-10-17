@@ -7,7 +7,7 @@ The system uses **OpenAI GPT models**, **Natural Language Processing (NLP)**, an
 
 ##Video link 
 
-▶️ [Watch the demo video on Loom]([https://www.loom.com/share/abcdef123456](https://www.loom.com/share/624bf1ef3ae648a79718a6b9fc729282?sid=873b577f-8d68-416c-bab0-66cd9eb47e58))
+▶️ [Watch the demo video on Loom](https://www.loom.com/share/624bf1ef3ae648a79718a6b9fc729282?sid=873b577f-8d68-416c-bab0-66cd9eb47e58)
 
 
 ## 🚀 Features
