@@ -52,7 +52,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/SOP-GENERATOR.git
+git clone https://github.com/Saksham0052/yg-sop-gen-high
 
 # Navigate to the project directory
 cd SOP-GENERATOR
